@@ -5,9 +5,11 @@
 
 trigger:
 - main
+ name:sem
 
 pool:
   vmImage: ubuntu-latest
+  
   
 
 steps:
