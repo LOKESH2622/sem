@@ -5,9 +5,10 @@
 
 trigger:
 - main
- name:sem
+ 
 
 pool:
+  agent: sem
   vmImage: ubuntu-latest
   
   
